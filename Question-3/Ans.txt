@@ -1,0 +1,12 @@
+There are various benifit of using meta tag----
+  1.> Search Engine Optimization (SEO): Meta tag are used for search engine optimisation and its helps in improving page rank on various search engine like google.
+
+  2.> Social Media Integration: Open Graph Meta Tags: Tags like og:title, og:description, and og:image are used for social media integration, particularly on platforms 
+                                like Facebook. They control how a link is displayed when shared on social media, making your content more shareable and visually appealing.
+     
+  3.> Viewport control: The viewport meta tag is crucial for responsive web design.
+
+  4.> Character Encoding and Language: The meta tag specifying the character encoding (e.g., .TF-8) ensures that the browser interprets the text correctly, especially
+                                       when dealing with special characters or multilingual content.
+  
+
